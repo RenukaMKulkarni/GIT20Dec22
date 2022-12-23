@@ -8,3 +8,5 @@ Adding random text to check Diff.
 New line to check revert.
 bug123:fixed with this changes....
 One more line added to fix bug123
+
+fixing the bug 456, added this function()
