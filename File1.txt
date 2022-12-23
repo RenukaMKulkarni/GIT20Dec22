@@ -7,8 +7,10 @@ adding random text to check rebase with conflicts
 adding random text to check Diff.
 
 new line to check revert.
-bug123:fixed with this changes....!!!!
+
+bug123:fixed with this changes....!!!!****
 one more line added to fix bug123
 
 fixing the bug 456, added this function()
 
+CR2: Fixed, at 11:35 AM on 23rd Dec.
