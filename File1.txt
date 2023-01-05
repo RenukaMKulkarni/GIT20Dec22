@@ -16,3 +16,4 @@ fixing the bug 456, added this function()
 CR2: Fixed, at 11:35 AM on 23rd Dec.
 ******************************************
 Adding a new line from Remote Repo.
+Testing git fetch..
